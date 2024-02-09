@@ -2,5 +2,3 @@ npm init -y
 npm install express nodemon mysql
 
 
-//Az lenne a feladat, hogy lenne egy suli penza, adatbázisból kiolvassa az A vagy B hét menüjét
-//Alatta pedig van egy form ahol lehet e-mailt és elérhetőséget beküldeni az adatbázisba
