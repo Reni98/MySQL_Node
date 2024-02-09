@@ -1,4 +1,4 @@
 npm init -y
-npm install express nodemon mysql
+npm install express nodemon mysql ejs
 
 
